@@ -1,0 +1,18 @@
+*{
+    background-color: #242421;
+    color: darkgray;
+}
+
+.header {
+    text-align: center;
+    font-weight: bold;
+}
+
+.img {
+    text-align: center;
+}
+
+.size {
+    width: 350px;
+    height: auto;
+}
